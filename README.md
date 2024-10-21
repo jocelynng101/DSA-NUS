@@ -19,4 +19,5 @@ There are 4 main steps to implementing this method:
 https://developer.ibm.com/tutorials/awb-stemming-text-porter-stemmer-algorithm-python/ 
 
 Jurafsky and Martin. 2009. Speech and Language Processing (2nd Edition). Pearson.
+
 COVID-19 Open Research Dataset (CORD-19). 2020. Version 2024-10-20. Retrieved from COVID-19 Open Research Dataset (CORD-19). Accessed 2024-10-20. doi:10.5281/zenodo.3715505
