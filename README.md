@@ -1,5 +1,5 @@
 # Introduction
-Goal: Develop a word embedding model in Python and train it to find the most similar medical words to a given target word using scholarly articles about COVID-19, SARS-CoV-2, and related corona viruses (CORD-19, 2020)
+GOAL: Develop a word embedding model in Python and train it to find the most similar medical words to a given target word using scholarly articles about COVID-19, SARS-CoV-2, and related corona viruses (CORD-19, 2020)
 
 # Background & Methodology
 Word Embeddings are short, dense vectors that represent words. In this project the Skip-Gram architecture with negative sampling (SGNS) method is used to compute the embeddings. This is one of the methods the package word2vec uses to determine embeddings. Word2vec is a neural network-based technique used to generate vector representations of words in a continuous vector space. The resulting word vectors capture semantic meanings, allowing for mathematical operations like finding similarities and relationships between words. 
